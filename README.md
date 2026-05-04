@@ -5,11 +5,8 @@
   <a href="https://jtittoy.github.io/portafolio/" target="_blank">
     <img src="https://img.shields.io/badge/Portafolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portafolio"/>
   </a>
-  <a href="mailto:TU_EMAIL@gmail.com">
+  <a href="mailto:jtittoy@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://linkedin.com/in/TU_USUARIO" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/JtittoY" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
@@ -22,9 +19,8 @@
 
 Soy desarrollador web junior recién egresado, especializado en **React** y **Python**, con experiencia construyendo proyectos reales end-to-end. Me apasiona escribir código limpio, resolver problemas y seguir aprendiendo cada día. Actualmente disponible para nuevas oportunidades laborales o freelance.
 
-- Basado en **La Paz, Bolivia**
 - Recién egresado · Orientado a seguir creciendo profesionalmente
-- **Open to work** — Frontend, Fullstack o roles de Python
+- **Open to work** — Frontend, backend, Fullstack
 - Hablo con fluidez sobre React, APIs REST, SQL y buenas prácticas
 
 ---
@@ -50,7 +46,6 @@ Soy desarrollador web junior recién egresado, especializado en **React** y **Py
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
